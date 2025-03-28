@@ -122,7 +122,7 @@ function App() {
             <Button 
                   variant="primary" 
                   className="download-resume-btn"
-                  onClick={() => window.open('https://1drv.ms/b/c/7ca130e2355ac022/EbMQdChVa2VGm7NrLjMFro4BNSkeNsY6qM9vtPemN271cA?e=mbL9fJ', '_blank')}
+                  onClick={() => window.open('https://drive.google.com/file/d/1CKoyNUGti6qWSsO8wakfoVWxP7hFvlsG/view?usp=sharing', '_blank')}
                 >
                   <FontAwesomeIcon icon={faDownload} className="me-2" />
                   Download Resume
